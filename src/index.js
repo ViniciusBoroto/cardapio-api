@@ -2,8 +2,11 @@ const express = require('express')
 const mongoose = require('mongoose')
 
 const app = express()
+app.use(express.json)
+
 const port = 3000
-mongoose.connect('')
+const config = require('./config')
+mongoose.connect(config.connectionString)
 
 const Item = mongoose.model('Item', {
     name: String,
