@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\model\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\model\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\migrations\\20240516173656_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\migrations\\20240516173656_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|d:\\dev\\projects\\cardapio\\cardapioapi\\cardapioapi\\cardapioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{40B78771-888C-4756-89B4-DC7E5FE171BC}|CardapioAPI\\CardapioAPI.csproj|solutionrelative:cardapioapi\\cardapioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "CardapioAPI\\Model\\Item.cs",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Model\\Item.cs",
+              "RelativeToolTip": "CardapioAPI\\Model\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:20:19.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CardapioAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CardapioAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:13:52.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "CardapioAPI\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "CardapioAPI\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:59:22.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240516173656_InitialMigration.cs",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Migrations\\20240516173656_InitialMigration.cs",
+              "RelativeDocumentMoniker": "CardapioAPI\\Migrations\\20240516173656_InitialMigration.cs",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Migrations\\20240516173656_InitialMigration.cs",
+              "RelativeToolTip": "CardapioAPI\\Migrations\\20240516173656_InitialMigration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:36:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Model\\DTO\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "CardapioAPI\\Model\\DTO\\ItemDTO.cs",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Model\\DTO\\ItemDTO.cs",
+              "RelativeToolTip": "CardapioAPI\\Model\\DTO\\ItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:25:35.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CardapioAPI\\Program.cs",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Program.cs",
+              "RelativeToolTip": "CardapioAPI\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:58:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "CardapioAPI\\Model\\Order.cs",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\Model\\Order.cs",
+              "RelativeToolTip": "CardapioAPI\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:44:08.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardapioAPI.csproj",
+              "DocumentMoniker": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\CardapioAPI.csproj",
+              "RelativeDocumentMoniker": "CardapioAPI\\CardapioAPI.csproj",
+              "ToolTip": "D:\\dev\\projects\\Cardapio\\CardapioAPI\\CardapioAPI\\CardapioAPI.csproj",
+              "RelativeToolTip": "CardapioAPI\\CardapioAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T16:44:07.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
